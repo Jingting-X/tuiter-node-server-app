@@ -11,7 +11,7 @@ export default [
         "liked": true,
         "likes": 2345,
         "disliked": false,
-        "dislikes":0,
+        "dislikes": 0,
         "replies": 123,
         "retuits": 432
     },
@@ -27,7 +27,7 @@ export default [
         "liked": true,
         "likes": 2345,
         "disliked": false,
-        "dislikes":0,
+        "dislikes": 0,
         "replies": 321,
         "retuits": 432
     },
@@ -43,7 +43,7 @@ export default [
         "liked": true,
         "likes": 3456,
         "disliked": false,
-        "dislikes":0,
+        "dislikes": 0,
         "replies": 345,
         "retuits": 654
     },

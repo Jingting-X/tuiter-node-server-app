@@ -14,6 +14,8 @@ const createTuit = (req, res) => {
     newTuit.topic = "Space";
     newTuit.time = "2h";
     newTuit.handle = "@nasa";
+    newTuit.retuits = 0;
+    newTuit.replies = 0;
     tuits.push(newTuit);
     res.json(newTuit);
 }
